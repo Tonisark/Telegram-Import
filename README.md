@@ -29,7 +29,7 @@ Convert your Telegram chat exports (JSON format) into WhatsApp-style chat logs (
 
 3. **Run the Script**:
    ```bash
-   python convert_telegram_to_whatsapp.py result.json _chat.txt
+   python tele.py result.json _chat.txt
    ```
    - It will prompt: `Enter name for the chat (e.g., ToniStark):`
    - Outputs: `WhatsApp Chat - ToniStark.zip`
