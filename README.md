@@ -35,7 +35,8 @@ Convert your Telegram chat exports (JSON format) into WhatsApp-style chat logs (
    - Outputs: `WhatsApp Chat - ToniStark.zip`
 
 4. **Import to Telegram**:
-   - Mobile/Desktop: Settings > Data and Storage > Import Chat History > Select ZIP.
+   - Mobile/Desktop: Settings > Data and Storage > Import Chat History > Select ZIP
+   - Or Simply go inside File manager and Share the .zip file for telegram if you done all things right it will detect it as import file
    - Choose target chat/user.
 
 ## Detailed Usage
